@@ -1,2 +1,2 @@
 # longer-limbs
-Wrapper module for SciKit-Lean tree-based estimators, falls back to linear or logistic regression for predictions outside of training data range.
+Wrapper for SciKit-learn tree-based estimators providing linear regression fallback for inputs outside of training data range.
